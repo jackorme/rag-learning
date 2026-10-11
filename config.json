@@ -1,0 +1,6 @@
+{
+  "project": "RAG",
+  "model": "gpt-4o",
+  "chunk_size": 500,
+  "use_vector_db": true
+}

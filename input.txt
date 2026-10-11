@@ -1,0 +1,3 @@
+Python 是一种编程语言。
+LangChain 可以开发 RAG 应用。
+FAISS 可以用于向量检索。
